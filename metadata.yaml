@@ -1,0 +1,28 @@
+_repo: ViijaKuvaus-Savon-kansan-el-m-st-_14773
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kauppis-Heikki
+    alias: Kauppinen, Heikki
+    birthdate: 1862
+    deathdate: 1920
+    gutenberg_agent_id: '5651'
+    url: http://www.gutenberg.org/2009/agents/5651
+    wikipedia: http://fi.wikipedia.org/wiki/Heikki_Kauppinen
+description: ''
+gutenberg_issued: '2005-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14773'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Finnish fiction -- 19th century'
+title: 'Viija: Kuvaus Savon kansan elämästä'
+url: http://www.gutenberg.org/ebooks/14773
