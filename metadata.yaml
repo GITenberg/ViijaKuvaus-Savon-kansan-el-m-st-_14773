@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5651
     wikipedia: http://fi.wikipedia.org/wiki/Heikki_Kauppinen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14773#ViijaKuvaus-Savon-kansan-el-m-st-
 gutenberg_issued: '2005-01-24'
 gutenberg_type: Text
 identifiers:
